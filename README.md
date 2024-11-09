@@ -1,4 +1,4 @@
-# 升级后请更新所有插件（AI写作插件请卸载后重新安装）！
+# 内容付费管理系统(PHP内容知识付费系统)
 ## 完整专业版源码：
 https://zibovip.top/archives/2763
 ![image](https://github.com/user-attachments/assets/63c24431-e70d-4b50-b873-f2e4da59ec86)
