@@ -1,4 +1,7 @@
 # 升级后请更新所有插件（AI写作插件请卸载后重新安装）！
+## 完整专业版源码：
+https://zibovip.top/archives/2763
+![image](https://github.com/user-attachments/assets/63c24431-e70d-4b50-b873-f2e4da59ec86)
 
 # 【新增功能】
 01、增加了会员购买分销比例设置（购买会员也可以产生分销的佣金）
