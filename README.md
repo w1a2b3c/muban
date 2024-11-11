@@ -1,6 +1,6 @@
 # 内容付费管理系统(PHP内容知识付费系统)
 ## 完整专业版源码：
-https://zibovip.top/archives/2763
+https://zibovip.top/2763.html
 ![image](https://github.com/user-attachments/assets/63c24431-e70d-4b50-b873-f2e4da59ec86)
 
 # 【新增功能】
